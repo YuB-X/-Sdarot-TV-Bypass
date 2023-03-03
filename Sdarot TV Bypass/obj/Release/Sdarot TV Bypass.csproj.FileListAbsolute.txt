@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Sdarot TV Bypass\Sdarot TV Bypass\bin\Release\Sdarot TV Bypass.exe.config
+C:\Users\User\source\repos\Sdarot TV Bypass\Sdarot TV Bypass\bin\Release\Sdarot TV Bypass.exe
+C:\Users\User\source\repos\Sdarot TV Bypass\Sdarot TV Bypass\bin\Release\Sdarot TV Bypass.pdb
+C:\Users\User\source\repos\Sdarot TV Bypass\Sdarot TV Bypass\bin\Release\System.CodeDom.dll
+C:\Users\User\source\repos\Sdarot TV Bypass\Sdarot TV Bypass\bin\Release\System.CodeDom.xml
+C:\Users\User\source\repos\Sdarot TV Bypass\Sdarot TV Bypass\obj\Release\Sdarot TV Bypass.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Sdarot TV Bypass\Sdarot TV Bypass\obj\Release\Sdarot TV Bypass.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Sdarot TV Bypass\Sdarot TV Bypass\obj\Release\Sdarot_TV_Bypass.Form1.resources
+C:\Users\User\source\repos\Sdarot TV Bypass\Sdarot TV Bypass\obj\Release\Sdarot_TV_Bypass.Properties.Resources.resources
+C:\Users\User\source\repos\Sdarot TV Bypass\Sdarot TV Bypass\obj\Release\Sdarot TV Bypass.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Sdarot TV Bypass\Sdarot TV Bypass\obj\Release\Sdarot TV Bypass.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sdarot TV Bypass\Sdarot TV Bypass\obj\Release\Sdarot TV Bypass.csproj.CopyComplete
+C:\Users\User\source\repos\Sdarot TV Bypass\Sdarot TV Bypass\obj\Release\Sdarot TV Bypass.exe
+C:\Users\User\source\repos\Sdarot TV Bypass\Sdarot TV Bypass\obj\Release\Sdarot TV Bypass.pdb
